@@ -11,10 +11,10 @@
 The purpose of the game is to complete typing as many complicated words as possible with the least number of mistakes within the 30 second time.
 
 #### Project Organization
-readme.md
-javascript.js
-style.css
-index.html
+* readme.md
+* script.js
+* style.css
+* index.html
 #### Features
 
 * Function newWord()
