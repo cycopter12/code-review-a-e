@@ -8,7 +8,7 @@ _Put the link to your partner's project here_
 
 #### Project Purpose
 
-_List the purpose and components of the project here_
+* List the purpose and components of the project here
 
 #### Project Organization
 
