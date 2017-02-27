@@ -23,7 +23,7 @@ Snacking review website.
 
 #### Areas of Success (Code, Organization)
 
-* Awesome choice of setting up a rating system
+* Awesome choice of setting up a rating system and separating the admin and user
 * Easy to review and rate snacks
   * There is a rating system that allows us to review the snack score. Very easy to review
 * Very simple layout and easy to navigate
